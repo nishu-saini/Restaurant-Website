@@ -48,4 +48,12 @@ body {
     margin: 20px 0px 0px 0px;
 }
 
+.reserve-table {
+    margin: 40px 0px 0px 0px;
+}
+
+#reserve-button {
+    font-size: 120%;
+}
+
 
