@@ -75,3 +75,16 @@ body {
     z-index: 1;
 }
 
+.modal-header {
+    background: $background-dark;
+    color: floralwhite;
+
+    .close-button {
+        color: floralwhite;
+    }
+}
+
+.modal-body {
+    background: $background-pale;
+}
+
